@@ -1,0 +1,14 @@
+{"error":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.","level":"error","msg":"Failed to connect to Redis","time":"2025-03-13T11:42:05+05:30"}
+{"level":"info","msg":"Redis cache initialized successfully","time":"2025-03-13T11:42:05+05:30"}
+{"error":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.","key":"user:123","level":"error","msg":"Failed to set cache in Redis","time":"2025-03-13T11:42:05+05:30"}
+{"key":"user:123","level":"warning","msg":"Cache miss in Redis","time":"2025-03-13T11:42:05+05:30"}
+{"error":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.","key":"user:123","level":"error","msg":"Failed to delete cache from Redis","time":"2025-03-13T11:42:05+05:30"}
+{"error":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.","level":"error","msg":"Failed to connect to Redis","time":"2025-03-13T11:42:38+05:30"}
+{"level":"info","msg":"Redis cache initialized successfully","time":"2025-03-13T11:42:38+05:30"}
+{"error":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.","key":"user:123","level":"error","msg":"Failed to set cache in Redis","time":"2025-03-13T11:42:50+05:30"}
+{"key":"user:123","level":"warning","msg":"Cache miss in Redis","time":"2025-03-13T11:42:57+05:30"}
+{"error":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.","level":"error","msg":"Failed to connect to Redis","time":"2025-03-13T11:45:11+05:30"}
+{"error":"dial tcp: address redis://default:redispw@localhost:49153: too many colons in address","level":"error","msg":"Failed to connect to Redis","time":"2025-03-13T11:46:12+05:30"}
+{"level":"info","msg":"Redis cache initialized successfully","time":"2025-03-13T11:47:55+05:30"}
+{"key":"user:123","level":"debug","msg":"Cache set in Redis","time":"2025-03-13T11:47:59+05:30"}
+{"key":"user:123","level":"debug","msg":"Cache retrieved from Redis","time":"2025-03-13T11:48:01+05:30"}
